@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://abhini1516.github.io/myportfolio",
+  "homepage": "https://abhini1516.github.io/myportfolio/",
   "scripts": {
   "dev": "vite",
   "build": "vite build",
